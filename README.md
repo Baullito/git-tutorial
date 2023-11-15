@@ -11,3 +11,7 @@ Add a list of different git commands and their purpose.
 ### Git add
 
 Adds a file into the staging area
+
+### Git innit
+
+Initialize a new git reposatory
