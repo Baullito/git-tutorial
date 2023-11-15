@@ -1,4 +1,4 @@
-# Teaching Git
+# Teaching Git for Newcomers
 
 ## First Steps
 
