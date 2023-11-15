@@ -12,6 +12,6 @@ Add a list of different git commands and their purpose.
 
 Adds a file into the staging area
 
-### Git innit
+### Git Init
 
 Initialize a new git reposatory
